@@ -7,3 +7,5 @@ Meetings on the 4th Tuesday of each month at [3pm UTC](http://time.unitarium.com
 Zoom link: [https://zoom.us/j/843556463](https://zoom.us/j/843556463)
 
 Mailing list: [financial-user-group@lists.cncf.io](https://lists.cncf.io/g/financial-user-group)
+
+Tuesday, May 21 2019 3:55pm - 16:30 at KubeCon Barcelona: [Birds of a feather: Financial Services User Group](https://sched.co/OoUQ)
