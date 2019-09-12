@@ -8,6 +8,8 @@ Zoom link: [https://zoom.us/j/843556463](https://zoom.us/j/843556463)
 
 [Join the mailing list](https://lists.cncf.io/g/financial-user-group/join) - note that you must be a member of an end user company in financial services to join, and work email addresses are required.
 
+Next face to face meeting at KubeCon CloudNativeCon San Diego: [Thursday, November 21 4:25pm - 5:55pm](https://sched.co/Uak4)
+
 ## Past events
 
 Tuesday, May 21 2019 3:55pm - 4:30pm at KubeCon Barcelona: [Birds of a feather: Financial Services User Group](https://sched.co/OoUQ)
