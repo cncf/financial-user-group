@@ -2,7 +2,7 @@
 
 * Mailing list: financial-user-group@lists.cncf.io
 * Github repo: [cncf/financial-user-group](https://github.com/cncf/financial-user-group)
-* Monthly meetings on 4th Tuesday at 2pm UTC: https://zoom.us/my/cncfenduser
+* [Monthly meetings](https://zoom.us/my/cncfenduser) on 4th Tuesday at 3pm UTC 
 * #fsug channel on [CNCF Slack](https://slack.cncf.io/)
 
 ## February 4, 2020
