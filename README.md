@@ -8,7 +8,7 @@ Zoom link: [https://zoom.us/my/cncfenduser](https://zoom.us/my/cncfenduser)
 
 [Join the mailing list](https://lists.cncf.io/g/financial-user-group/join) - note that you must be a member of an end user company in financial services to join, and work email addresses are required. 
 
-[Meeting notes](meeting-notes.md)
+[Meeting notes](https://docs.google.com/document/d/1fIj128ljSPVhFIViVX9b85iNQP8s-s0O6khOeXDgxlc/edit)
 
 ## Past events
 
