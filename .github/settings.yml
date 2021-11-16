@@ -1,0 +1,32 @@
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: financial-user-group
+
+  # A short description of the repository that will show up on GitHub
+  The primary aim of this group is to foster interest and engagement from the finance industry to address security, regulatory and compliance related issues when using cloud native platforms.
+
+  # A URL with more information about the repository
+  homepage: https://github.com/cncf/financial-user-group
+
+  # Collaborators: give specific users access to this repository.
+  collaborators:
+  # Admins
+  - username: caniszczyk
+    permission: admin
+
+  - username: idvoretskyi
+    permission: admin
+    
+  - username: amye
+    permission: admin
+    
+  - username: xmulligan
+    permission: admin
+    
+  - username: mlieberman85
+    permission: admin
+
+  - username: ssurovich
+    permission: admin
