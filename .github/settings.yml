@@ -27,3 +27,6 @@ repository:
     
   - username: mlieberman85
     permission: admin
+
+  - username: ssurovich
+    permission: admin
